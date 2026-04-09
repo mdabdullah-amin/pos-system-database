@@ -2,8 +2,8 @@
 
 A relational database project for a **Point of Sale (POS) system**, designed and implemented in SQL. The database models a small retail store's daily operations — tracking customers, products, suppliers, sales, payments, returns, inventory, and staff users.
 
-**Author:** Md Abdullah Al Amin
-
+**Author:** Md Abdullah Al Amin 
+Connect with me on [LinkedIn](https://www.linkedin.com/in/mdabdullah-amin)
 ---
 
 ## 📋 Project Overview
